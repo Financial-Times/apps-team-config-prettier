@@ -1,0 +1,19 @@
+{
+  "name": "apps-team-config-prettier",
+  "version": "0.0.2",
+  "description": "Common prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financial-Times/apps-team-config-prettier.git"
+  },
+  "author": "FT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/apps-team-config-prettier/issues"
+  },
+  "homepage": "https://github.com/Financial-Times/apps-team-config-prettier#readme"
+}
